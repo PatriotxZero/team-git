@@ -1,1 +1,0 @@
-const thisIsAJS = 0;
